@@ -1,0 +1,20 @@
+{
+  "team_number": "T028",
+  "students": [
+    {
+      "name": "Bashar Mazara",
+      "student_id": "1211772",
+      "section": "1"
+    }
+  ],
+  "course_description": "ENCS3320 - Computer Networks introduces the fundamental principles of computer networking, including the layered network architecture, socket programming, transport and network layer protocols, routing, and application-layer services such as HTTP and DNS. This project applies those concepts by building a complete client-server network diagnostic system with a companion web interface.",
+  "tcp_host": "0.0.0.0",
+  "tcp_port": 5772,
+  "http_host": "0.0.0.0",
+  "http_port": 6772,
+  "log_file": "logs/server.log",
+  "stats_file": "data/stats.json",
+  "max_clients": 10,
+  "default_homepage": "home",
+  "client_connect_host": "127.0.0.1"
+}

@@ -1,0 +1,15 @@
+{
+  "total_commands": 1,
+  "currently_connected_clients": 1,
+  "total_client_connections": 1,
+  "last_execution_time": 3.1201677322387695,
+  "uptime_seconds": 26.868210077285767,
+  "most_frequent_command": "PING",
+  "average_execution_time": 3.1201677322387695,
+  "success_count": 1,
+  "failure_count": 0,
+  "command_counter": {
+    "PING": 1
+  },
+  "last_updated": "2026-09-23 10:26:17"
+}
